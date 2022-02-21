@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GameMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/OptionScreen.unity
+    guid: b219eb7e8ce4c984cabf2d45cdbb639d
+  - enabled: 1
+    path: Assets/Scenes/HeroScreen.unity
+    guid: 28545727db678a64fa73504818a0b2af
+  - enabled: 1
+    path: Assets/Scenes/OldPlayGame.unity
+    guid: ecb1820d4b73c4243ba93d6d5c54301c
+  - enabled: 1
+    path: Assets/Scenes/InfoScreen.unity
+    guid: 544d7f2272f58e1488651dd27f3a2789
+  - enabled: 1
+    path: Assets/Scenes/ShopScreen.unity
+    guid: 6e10705bd8b6672479599a7a2edee1df
+  - enabled: 1
+    path: Assets/Scenes/PlayGame.unity
+    guid: a64692b4b0341a144aa633f77aa5d8b8
+  m_configObjects: {}
